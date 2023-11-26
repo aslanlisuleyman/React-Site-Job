@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.homepg{
+    height: 92.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-image: url(https://wallpapers.com/images/featured/macbook-pro-background-vp5h2ohju1u02115.jpg);
+    overflow: hidden;
+    object-fit: contain;
+    color: navy;
+   
+ 
+}
+h1{
+    
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    height: 60px;
+    align-items: center;
+    background: linear-gradient(to right, white, lightblue, deepskyblue, blue);
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+     
+}

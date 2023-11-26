@@ -1,0 +1,11 @@
+.card{
+    text-align: center;
+}
+.favour{
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;  
+}
